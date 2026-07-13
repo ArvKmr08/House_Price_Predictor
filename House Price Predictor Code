@@ -60,4 +60,6 @@ y_pred = model.predict(X_test)
 print("R2 Score:", r2_score(y_test, y_pred))
 print("MAE:", mean_absolute_error(y_test, y_pred))
 print("RMSE:", np.sqrt(mean_squared_error(y_test, y_pred)))
-print(mean_absolute_percentage_error(y_test, y_pred))
+print(mean_absolute_percentage_error(y_test, y_pred)) 
+
+---End Of The Code
