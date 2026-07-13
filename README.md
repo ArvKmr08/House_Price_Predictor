@@ -1,1 +1,2 @@
 # House_Price_Predictor
+House price predictor is a supervised Linear Regression model trained on data called House price, It predict the house of price based on its physical feature, It has several features as size, location year built, etc and target value as House price.
